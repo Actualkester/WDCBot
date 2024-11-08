@@ -1,11 +1,15 @@
 'classic:alternator':
   alreadyDead:
   - "{{attacker}} used alternator over {{victim}}'s dead body. It did no effect."
+
+  - "{{attacker}} used alternator over {{victim}}'s dead body. It did no effect. How much did you hate them to this point bro, they're already dead!"
   alreadyDeadPowerup:
   - "{{attacker}} used alternator over {{victim}}'s dead body. It did no effect."
   usedOffensiveCard:
   - "{{attacker}} used alternator on {{victim}} but {{victim}} used an offensive card! {{attacker}} lost **❤️ {{hpLost}}**."
   usedOffensiveCardPowerup:
+  - "{{attacker}} used alternator on {{victim}} but {{victim}} used an offensive card! {{attacker}} lost **❤️ {{hpLost}}**."
+
   - "{{attacker}} used alternator on {{victim}} but {{victim}} used an offensive card! {{attacker}} lost **❤️ {{hpLost}}**."
   usedDefensiveCard:
   - "{{attacker}} used alternator on {{victim}} and {{victim}} used an defensive card! {{victim}} lost **❤️ {{hpLost}}**."
